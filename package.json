@@ -1,6 +1,6 @@
 {
   "name": "console.beautify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Beautify console log messages",
   "main": "index.js",
   "scripts": {
